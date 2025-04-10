@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'ja'
-title = 'あんまり良いのが思いつかなかった'
+title = 'ヒューゴテスト'
 theme = 'ananke'
